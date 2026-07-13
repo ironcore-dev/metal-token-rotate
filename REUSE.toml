@@ -11,6 +11,7 @@ path = [
   ".gitignore",
   ".license-scan-overrides.jsonl",
   ".license-scan-rules.json",
+  "CODEOWNERS",
   "go.mod",
   "go.sum",
   "Makefile.maker.yaml",
